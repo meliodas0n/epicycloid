@@ -1,3 +1,3 @@
 # epicycloid
 
-Launch the 
+Launch the Epicycloid.sln in Visual Studio and run it  
