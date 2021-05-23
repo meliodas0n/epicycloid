@@ -1,0 +1,6 @@
+﻿  main.c
+E:\new\epicycloid\main.c(22,22): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+E:\new\epicycloid\main.c(22,35): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+E:\new\epicycloid\main.c(33,25): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+E:\new\epicycloid\main.c(33,37): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+  epicycloid.vcxproj -> E:\new\bin\Debug.DLL\epicycloid.exe
